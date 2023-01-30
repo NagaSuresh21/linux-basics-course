@@ -74,7 +74,7 @@
   [~]$ systemctl get default
   ```
 
-- To change the runleve to a different target use  **`systemctl set-default multi-user.target`**
+- To change the runlevel to a different target use  **`systemctl set-default multi-user.target`**
 
   ```
   [~]$ systemctl set-default multi-user.target
